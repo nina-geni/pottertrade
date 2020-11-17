@@ -1,0 +1,13 @@
+.text-picture img {
+  width: 60%;
+}
+.text-picture {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 50px;
+}
+.text-picture p {
+  font-size: 30px;
+  padding-right: 25px;
+}
